@@ -1,0 +1,27 @@
+{
+  "name": "fingerprint",
+  "main": [
+    "index.js"
+  ],
+  "version": "0.1.0",
+  "homepage": "https://github.com/kristianmandrup/fingerprint",
+  "authors": [
+    "Kristian Mandrup <kmandrup@gmail.com>"
+  ],
+  "description": "Fingerprint objects and arrays",
+  "keywords": [
+    "fingerprint",
+    "hash",
+    "md5",
+    "util"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
