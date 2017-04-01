@@ -1,5 +1,7 @@
 # Fingerprint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/fingerprint.svg)](https://greenkeeper.io/)
+
 Fingeprint objects and arrays.
 
 ## Usage
